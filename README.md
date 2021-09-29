@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ducvietbgvn
+- 👀 I’m interested in Qt framework and things that can look and feel (drone is one)
+- 🌱 I’m currently learning more about system
+- 💞️ I’m looking to collaborate on sw development open source or things related to drones.
+- 📫 How to reach me: vietduc.bgvn@gmail.com
